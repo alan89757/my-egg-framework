@@ -1,0 +1,27 @@
+{
+  "name": "my-egg-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "egg": "^2.26.0",
+    "egg-ext": "../egg-ext",
+    "egg-middleware": "../egg-middleware",
+    "egg-schedule": "../egg-schedule",
+    "egg-start": "../egg-start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan89757/my-egg-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan89757/my-egg-framework/issues"
+  },
+  "homepage": "https://github.com/alan89757/my-egg-framework#readme"
+}
